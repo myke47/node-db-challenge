@@ -13,5 +13,8 @@ Similar to any javascript object, the key gives us a way to uniquely identify a 
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Keys
 
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+A _many to many_ relationship between two tables requires either a Bridge Table, and Boolean Column or a Multiple Column Method. 
